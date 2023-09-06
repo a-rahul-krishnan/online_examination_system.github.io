@@ -1,4 +1,4 @@
-# Demo :
+# Demo (Desktop Version) :
 
 [Online Examination system](https://a-rahul-krishnan.github.io/online_examination_system.github.io/)
 
